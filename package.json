@@ -1,0 +1,44 @@
+{
+  "name": "passport-hatena-oauth-oauth",
+  "version": "1.0.0",
+  "description": "Hatena authentication strategy for passport.",
+  "keywords": [
+    "passport",
+    "hatena",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/horiuchi/passport-hatena-oauth.git"
+  },
+  "bugs": {
+    "url": "http://github.com/horiuchi/passport-hatena-oauth/issues"
+  },
+  "author": {
+    "name": "Hideo Fukushima",
+    "email": "ultrablue03@gmail.com",
+    "url": "http://www.hatena.ne.jp/Horiuchi_H/"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib",
+  "dependencies": {
+    "passport-oauth1": "^1.1.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-passport-strategy": "^1.0.1",
+    "make-node": "^0.3.5",
+    "mocha": "^5.1.1"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  }
+}
