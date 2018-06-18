@@ -1,5 +1,5 @@
 {
-  "name": "passport-hatena-oauth-oauth",
+  "name": "passport-hatena-oauth",
   "version": "1.0.0",
   "description": "Hatena authentication strategy for passport.",
   "keywords": [
@@ -12,15 +12,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/horiuchi/passport-hatena-oauth.git"
+    "url": "git://github.com/ultra00/passport-hatena-oauth.git"
   },
   "bugs": {
-    "url": "http://github.com/horiuchi/passport-hatena-oauth/issues"
+    "url": "http://github.com/ultra00/passport-hatena-oauth/issues"
   },
   "author": {
-    "name": "Hideo Fukushima",
-    "email": "ultrablue03@gmail.com",
-    "url": "http://www.hatena.ne.jp/Horiuchi_H/"
+    "name": "ultra00",
+    "email": "ultrablue03@gmail.com"
   },
   "licenses": [
     {
